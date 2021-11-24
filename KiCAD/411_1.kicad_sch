@@ -255,7 +255,7 @@
         (circle (center 0 0) (radius 0.508)           (stroke (width 0.2032) (type default) (color 0 0 0 0))
           (fill (type none))
         )
-        (arc (start 1.778 0) (mid 0.2221 1.8083) (end -1.778 0.508)
+        (arc (start 1.778 0) (mid 0.222 1.8083) (end -1.778 0.508)
           (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type none))
         )
@@ -3077,7 +3077,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a3375826-5f85-4652-b8c2-0a2454eb082d)
   )
-  (text "Lowpass:\nTx=6.5MHz | Tx=4.5MHz\nC21=470p  | C21=470p\nL4=1.2u   | L4=1.2u\nC24=1n    | C24=1n\nL5=1.2u	  | L5=1.2u\nC25=1n    | C25=1n\nL6=1.2u   | L6=1.2u\nC26=470p  | C26=470p"
+  (text "Lowpass:\nTx=6.5MHz | Tx=4.5MHz\nC21=470p  | C21=470p\nL4=1.2u   | L4=3.3u\nC24=1n    | C24=1n\nL5=1.2u	  | L5=3.3u\nC25=1n    | C25=1n\nL6=1.2u   | L6=3.3u\nC26=470p  | C26=470p"
     (at 49.53 179.07 0)
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 2bc731b9-354f-4afa-9f15-71700c992a98)

@@ -390,7 +390,7 @@
       "idf": "",
       "netlist": "411_1.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "411_1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
